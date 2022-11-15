@@ -1,3 +1,3 @@
 # drone_mpc
 NMPC of Drone
-[Image text](data_test/TestMPC.png)
+[Image text](https://github.com/KafuuChikai/drone_mpc/blob/main/data_test/TestMPC.png)
